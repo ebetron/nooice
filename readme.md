@@ -6,6 +6,11 @@ Ever wanted to Nooice your users every time they make a Nooice action like hitti
 Usage
 -----
 
+System Requirements:
+* Somewhere to host Nooice.js - Nooice.js uses Web Audio API. The .mp3 files associated with the .js cannot be read locally, they must be served through an Apache, Grunt server, etc.
+* Safari, Firefox, Chrome - this has not been tested on IE (nor should it be, IE sucks!)
+* Make sure the "sounds" directory included with this repo is in the same directory as where you place nooice.js
+
 Make sure to include the nooice.js script in the HTML Doc you want to Nooice.
 
 ```sh
