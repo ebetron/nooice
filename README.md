@@ -35,8 +35,7 @@ Where did this come from?
 ------
 
 Just watch this
-
-[Key & Peele - Nooice](https://www.youtube.com/watch?v=rQnYi3z56RE)
+<a href="https://www.youtube.com/watch?v=rQnYi3z56RE" target="_blank">Key & Peele - Nooice</a>
 
 Nooice.js is inspired by the Key & Peele comedy sketch of the same name. The audio files included in this repo however, are not sampled from the video, they are the voice of the author of this repo.
 
